@@ -9,6 +9,6 @@
 <a href="#Ferramentas">Ferramentas</a></p>
 <h1 align="center">Sobre o Projeto</h1>
 
-<h1 align="center">Banco Digital</h1>
+<h3 align="center">Banco Digital</h3>
 <p align="center">Um banco digital para todos seus assuntos financeiros em apenas um local e com plataformas de acessos a diverso métodos financeiros</p>
 
