@@ -14,3 +14,10 @@
 
 
 <h3 align="center">🚧 - Em Andamento - 🚧</h3>
+
+### Tecnologias 🚀
+
+  As seguintes ferramentas foram usadas na construção do projeto:
+
+  - [x] **HTML**
+  - [x] **CSS**
