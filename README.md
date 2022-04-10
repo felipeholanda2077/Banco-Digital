@@ -13,4 +13,4 @@
 <p align="center">Um banco digital para todos seus assuntos financeiros em apenas um local e com plataformas de acessos a diverso métodos financeiros</p>
 
 
-<h3 align="center">🚧 1º - Em Andamento 🚧</h3>
+<h3 align="center">🚧 - Em Andamento - 🚧</h3>
